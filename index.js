@@ -6,7 +6,7 @@ const config = {
   host: 'Tiger445012.aternos.me',
   port: 13283,
   username: 'AFKBot',
-  version: '1.26.21.1',
+  version: '1.21.2',
   auth: 'offline',
   reconnectDelay: 1000,
 };
