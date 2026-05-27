@@ -3,10 +3,10 @@ require('http').createServer((req,res)=>res.end('Bot running!')).listen(3000);
 const mineflayer = require('mineflayer');
 
 const config = {
-  host: 'thatpiece.minefort.com',
-  port: 25565,
+  host: 'Tiger445012.aternos.me',
+  port: 13283,
   username: 'AFKBot',
-  version: '1.21.2',
+  version: '1.26.21.1',
   auth: 'offline',
   reconnectDelay: 1000,
 };
