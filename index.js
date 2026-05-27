@@ -6,7 +6,7 @@ const config = {
   host: 'thatpiece.minefort.com',
   port: 25565,
   username: 'AFKBot',
-  version: '1.21.1',
+  version: '1.21.4',
   auth: 'offline',
   reconnectDelay: 10000,
 };
